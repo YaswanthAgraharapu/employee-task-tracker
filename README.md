@@ -62,3 +62,16 @@ You can use the following credentials from the mock data to test the application
 *   **Email:** `bob.s@prou.com`, **Password:** `bobpassword`
 *   **Email:** `charlie.b@prou.com`, **Password:** `charliepassword`
 *(Use the "User Sign-In" tab)*
+
+## Demo
+
+### Login Page
+!Login Page
+
+### Admin Dashboard
+The admin can view all employees, assign new tasks, and approve completed work.
+!Admin Dashboard
+
+### User Dashboard
+Users can view their assigned tasks, update their progress, and request approval from the admin.
+!User Dashboard
